@@ -4,30 +4,30 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="icon" type="image/x-icon" href="img/logosim.ico">
+	<link rel="icon" type="image/x-icon" href="logosim.ico">
 	<title>SIM-SOH INTERNATIONAL SERVICES, INC.</title>
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CVarela+Round" rel="stylesheet">
 
 	<!-- Bootstrap -->
-	<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css" />
+	<link type="text/css" rel="stylesheet" href="bootstrap.min.css" />
 
 	<!-- Owl Carousel -->
-	<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" />
-	<link type="text/css" rel="stylesheet" href="css/owl.theme.default.css" />
+	<link type="text/css" rel="stylesheet" href="owl.carousel.css" />
+	<link type="text/css" rel="stylesheet" href="owl.theme.default.css" />
 
 	<!-- Magnific Popup -->
-	<link type="text/css" rel="stylesheet" href="css/magnific-popup.css" />
+	<link type="text/css" rel="stylesheet" href="magnific-popup.css" />
 
 	<!-- Font Awesome Icon -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link rel="stylesheet" href="font-awesome.min.css">
 
 	<!-- Custom stlylesheet -->
-	<link type="text/css" rel="stylesheet" href="css/style.css" />
+	<link type="text/css" rel="stylesheet" href="style.css" />
 </head>
 <body>
 	<header id="home">
 		<!-- Background Image -->
-		<div class="bg-img" style="background-image: url('./img/simsohbg.jpg');">
+		<div class="bg-img" style="background-image: url('simsohbg.jpg');">
 			<div class="overlay"></div>
 		</div>
 		<!-- /Background Image -->
@@ -40,8 +40,8 @@
 					<!-- Logo -->
 					<div class="navbar-brand">
 						<a href="index.php">
-							<img class="logo" src="img/logosim.png" alt="logo">
-							<img class="logo-alt" src="img/logosim_2.png" alt="logo">
+							<img class="logo" src="logosim.png" alt="logo">
+							<img class="logo-alt" src="logosim_2.png" alt="logo">
 						</a>
 					</div>
 					<!-- /Logo -->
@@ -149,10 +149,10 @@
 				<!-- About slider -->
 				<!-- <div class="col-md-6">
 					<div id="about-slider" class="owl-carousel owl-theme">
-						<img class="img-responsive" src="./img/about1.jpg" alt="">
-						<img class="img-responsive" src="./img/about2.jpg" alt="">
-						<img class="img-responsive" src="./img/about1.jpg" alt="">
-						<img class="img-responsive" src="./img/about2.jpg" alt="">
+						<img class="img-responsive" src="about1.jpg" alt="">
+						<img class="img-responsive" src="about2.jpg" alt="">
+						<img class="img-responsive" src="about1.jpg" alt="">
+						<img class="img-responsive" src="about2.jpg" alt="">
 					</div>
 				</div> -->
 				<!-- /About slider -->
@@ -206,10 +206,10 @@
 				<!-- About slider -->
 				<div class="col-md-6">
 					<div id="about-slider" class="owl-carousel owl-theme">
-						<img class="img-responsive" src="./img/makati.png" alt="">
-						<img class="img-responsive" src="./img/cagayandeoro.png" alt="">
-						<img class="img-responsive" src="./img/butuan.png" alt="">
-						<img class="img-responsive" src="./img/digos.png" alt="">
+						<img class="img-responsive" src="makati.png" alt="">
+						<img class="img-responsive" src="cagayandeoro.png" alt="">
+						<img class="img-responsive" src="butuan.png" alt="">
+						<img class="img-responsive" src="digos.png" alt="">
 					</div>
 				</div>
 				<!-- /About slider -->
@@ -223,7 +223,7 @@
 	<div id="numbers" class="section sm-padding">
 
 		<!-- Background Image -->
-		<div class="bg-img" style="background-image: url('./img/background2.jpg');">
+		<div class="bg-img" style="background-image: url('background2.jpg');">
 			<div class="overlay"></div>
 		</div>
 		<!-- /Background Image -->
@@ -428,164 +428,164 @@
 
 				<!-- Work -->
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/1.jpeg" alt="">
+					<img class="img-responsive" src="1.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/1.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="1.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/2.jpeg" alt="">
+					<img class="img-responsive" src="2.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/2.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="2.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/3.jpeg" alt="">
+					<img class="img-responsive" src="3.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/3.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="3.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/4.jpeg" alt="">
+					<img class="img-responsive" src="4.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/4.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="4.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/5.jpeg" alt="">
+					<img class="img-responsive" src="5.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/5.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="5.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/6.jpeg" alt="">
+					<img class="img-responsive" src="6.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/6.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="6.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/7.jpeg" alt="">
+					<img class="img-responsive" src="7.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/7.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="7.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/8.jpeg" alt="">
+					<img class="img-responsive" src="8.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/8.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="8.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/9.jpeg" alt="">
+					<img class="img-responsive" src="9.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/9.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="9.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/10.jpeg" alt="">
+					<img class="img-responsive" src="10.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/10.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="10.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/11.jpeg" alt="">
+					<img class="img-responsive" src="11.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/11.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="11.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/12.jpeg" alt="">
+					<img class="img-responsive" src="12.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/12.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="12.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/13.jpeg" alt="">
+					<img class="img-responsive" src="13.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/13.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="13.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/14.jpeg" alt="">
+					<img class="img-responsive" src="14.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/14.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="14.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/15.jpeg" alt="">
+					<img class="img-responsive" src="15.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/15.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="15.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/16.jpeg" alt="">
+					<img class="img-responsive" src="16.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/16.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="16.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/17.jpeg" alt="">
+					<img class="img-responsive" src="17.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/17.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="17.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4 col-xs-6 work">
-					<img class="img-responsive" src="./img/18.jpeg" alt="">
+					<img class="img-responsive" src="18.jpeg" alt="">
 					<div class="overlay"></div>
 					<div class="work-content">
 						<div class="work-link">
-							<a class="lightbox" href="./img/18.jpeg"><i class="fa fa-search"></i></a>
+							<a class="lightbox" href="18.jpeg"><i class="fa fa-search"></i></a>
 						</div>
 					</div>
 				</div>
@@ -666,7 +666,7 @@
 
 					<!-- footer logo -->
 					<div class="footer-logo">
-						<a href="index.php"><img src="img/logosim.png" alt="logo"></a>
+						<a href="index.php"><img src="logosim.png" alt="logo"></a>
 					</div>
 					<!-- /footer logo -->
 
@@ -697,14 +697,14 @@
 
 	</footer>
 	<div id="back-to-top"></div>
-	<div id="preloader">
+	<!-- <div id="preloader">
 		<div class="preloader">
 			<span></span>
 			<span></span>
 			<span></span>
 			<span></span>
 		</div>
-	</div>
+	</div> -->
 
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>

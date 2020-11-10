@@ -277,25 +277,21 @@ img {vertical-align: middle;}
 				<div class="mySlides fade">
 				  <div class="numbertext">1 / 4</div>
 				  <img src="makati.png" style="width:100%">
-				  <div class="text">Caption Text</div>
 				</div>
 
 				<div class="mySlides fade">
 				  <div class="numbertext">2 / 4</div>
 				  <img src="cagayandeoro.png" style="width:100%">
-				  <div class="text">Caption Two</div>
 				</div>
 
 				<div class="mySlides fade">
 				  <div class="numbertext">3 / 4</div>
 				  <img src="butuan.png" style="width:100%">
-				  <div class="text">Caption Three</div>
 				</div>
 
 				<div class="mySlides fade">
 				  <div class="numbertext">4 / 4</div>
 				  <img src="digos.png" style="width:100%">
-				  <div class="text">Caption Three</div>
 				</div>
 
 				</div>

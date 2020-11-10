@@ -416,7 +416,7 @@ img {vertical-align: middle;}
 							-Factory worker / Operator <br>
 							-Maintenance worker <br>
 							-Printer <br>
-							-Salesman
+							
 						</p>
 					</div>
 				</div>
